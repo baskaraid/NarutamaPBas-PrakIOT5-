@@ -10,3 +10,5 @@ di bawah ini Script untuk Heating Element
 function setup(){
 	setDeviceProperty(getName(), 'IR', 900);
 }
+
+Saat membuka Ip untuk menjalankan program dan membuat kondisi harus memasukkan username dan password yang sudah terdaftar yaitu username baskara dan password baskara
